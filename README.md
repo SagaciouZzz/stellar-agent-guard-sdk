@@ -1,3 +1,4 @@
+<!-- Decision: API reference stays in README (option a); prose guides live in docs/. See issue discussion for recorded rationale. -->
 <p align="center">
 <img src="Gemini_Generated_Image_mvimg2mvimg2mvim.jpeg" alt="Stellar Agent Guard" width="700"/>
 </p>
@@ -13,6 +14,17 @@
 </a>
 <!-- docs: <a href="#"><img src="https://img.shields.io/badge/docs-GitBook-blue" alt="Documentation"/></a> (added in P2 once GitBook URL is confirmed live) -->
 </p>
+
+## Contents
+
+- [What makes this different](#-what-makes-this-different)
+- [What it does](#what-it-does)
+- [Quick Start](#quick-start)
+- [API Reference](#api-reference)
+- [Architecture](#architecture)
+- [Verified against live testnet](#-verified-against-live-testnet)
+- [Honest limitations](#honest-limitations)
+- [Enforcement scope](#enforcement-scope--read-this-before-relying-on-the-caps)
 
 # Stellar Agent Guard — SDK
 
