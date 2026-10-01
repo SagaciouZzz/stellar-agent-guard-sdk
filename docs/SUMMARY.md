@@ -25,4 +25,6 @@
 * [Threat Model](threat-model.md)
 * [Compatibility](compatibility.md)
 * [Contributing](contributing.md)
-* [FAQ^(faq.md)
+* [Releasing](releasing.md)
+* [API Deprecations](deprecations.md)
+* [FAQ](faq.md)
