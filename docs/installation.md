@@ -26,5 +26,5 @@ The SDK uses Node 24 native TypeScript test execution (`node --test`) and compil
 ## Next Steps
 
 - See the [API reference](./api-reference.md) for the full surface area.
-- See the [quickstart](../README.md#quickstart) for a minimal end-to-end example.
+- See the [quickstart](../README.md#quick-start) for a minimal end-to-end example.
 - See [troubleshooting](./troubleshooting.md) if installation fails.
