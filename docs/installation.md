@@ -3,7 +3,7 @@
 ## Requirements
 
 - `Node.js`: `v24.0.0` or higher
-- `@scellar/stellar-sdk`: `^17.0.1` (runtime dependency)
+- `@stellar/stellar-sdk`: `^17.0.1` (runtime dependency)
 
 ## Installing from NPM
 
